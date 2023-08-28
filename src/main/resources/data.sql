@@ -1,0 +1,23 @@
+INSERT INTO base_station VALUES ('b8ea9e84-49f4-4a64-87cc-c55cb3012ab6', 13.0, 'BS1001', 30.0, 30.0);
+INSERT INTO base_station VALUES ('152c4c49-6f6f-4899-a562-c170c7ef6fea', 27.0, 'BS1002', 56.0, 67.0);
+INSERT INTO base_station VALUES ('2ad736bf-e27c-4efc-96db-b9fe2626d927', 6.0, 'BS1003', 12.0, 21.0);
+INSERT INTO base_station VALUES ('82c6c601-87cc-43b4-9105-fb942ab853cd', 41.0, 'BS1003', 87.0, 37.0);
+INSERT INTO base_station VALUES ('27a5667a-f2bc-4c51-9c9b-5560f0b8a2cb', 17.0, 'BS1003', 32.0, 66.0);
+INSERT INTO base_station VALUES ('692db681-9441-4d64-a76d-e83ddbaca2f4', 32.0, 'BS1003', 29.0, 82.0);
+
+INSERT INTO mobile_station VALUES ('2cd9a039-de16-4bc0-91dc-2d3503cc4795', 41.0, 35.0);
+INSERT INTO mobile_station VALUES ('ffcaa060-cfcf-4ae0-90ca-531b026dd12f', 57.0, 68.0);
+INSERT INTO mobile_station VALUES ('46eef067-5816-4afe-8ebd-daed9aa7717f', 95.0, 25.0);
+INSERT INTO mobile_station VALUES ('315528c0-a16f-4b99-be77-a7977c28e2ad', 0.0, 0.0);
+INSERT INTO mobile_station VALUES ('553c43eb-da16-43d6-b518-12803890a719', 0.0, 0.0);
+INSERT INTO mobile_station VALUES ('ff21cf48-2871-4e17-96c3-585364b51296', 0.0, 0.0);
+INSERT INTO mobile_station VALUES ('7d37bdf5-806c-4aab-a040-ad516b426687', 0.0, 0.0);
+INSERT INTO mobile_station VALUES ('fa86f2b8-9a79-4cba-9877-2b375751518c', 0.0, 0.0);
+INSERT INTO mobile_station VALUES ('85b2b510-a992-4674-9dd1-63a1e0ec50a2', 0.0, 0.0);
+INSERT INTO mobile_station VALUES ('25de31d1-404c-41a1-8c21-b66dc417e091', 0.0, 0.0);
+INSERT INTO mobile_station VALUES ('5a52d9dc-c2ec-477f-b638-49f3d31f38ef', 0.0, 0.0);
+INSERT INTO mobile_station VALUES ('3a732617-cf42-48e4-bf15-b15bf84c54f6', 0.0, 0.0);
+INSERT INTO mobile_station VALUES ('e277b874-c209-4973-a601-f670f5f967ed', 0.0, 0.0);
+INSERT INTO mobile_station VALUES ('d1add63c-063f-440d-a72e-115f61a95b57', 0.0, 0.0);
+INSERT INTO mobile_station VALUES ('62acce93-908b-4cf7-b46f-8043f09d4c4e', 0.0, 0.0);
+INSERT INTO mobile_station VALUES ('54a03aaa-2abc-4e5d-a070-784b24e348e6', 0.0, 0.0);
